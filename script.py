@@ -4,6 +4,10 @@
 # add colors for each transaction button - Done as of 2/25/26
 # make the buttons work - Done as of 2/27/26
 # Clean up code make it look more nice - Working on as of 2/28/26
+# Create pie chart - Working on as of 3/1/26
+# add labels for each section - Working on as of 2/25/26
+# Catch errors that may arise (done for input error as of 3/2/26)(done for value errors for pie chart as of 3/2/26)
+
 
 import tkinter as tk
 import math # for calculating labels
@@ -196,3 +200,4 @@ error_label.pack(pady=10)
 
 
 root.mainloop()
+
