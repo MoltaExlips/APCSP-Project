@@ -26,3 +26,8 @@ git clone https://github.com/MoltaExlips/APCSP-Project.git
 Then run the command cd APCSP-Project
 
 Once done run in your console py main.py 
+
+### Notes
+
+The main.py and script.py share no differnce except as a meathod to view different versions
+The actual submission will be under submission.py
