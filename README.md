@@ -8,7 +8,6 @@ A simple budgeting application
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) (included with Python) - called upon via "import tkinter"
 - [Math](https://docs.python.org/3/library/math.html) (included with Python) - called upon via "import math"
 
---
 ## Getting Started
 
 ### Install Python
@@ -17,8 +16,6 @@ Download and install Python 3:
 
 https://www.python.org/downloads/
 
-
----
 
 ### Clone the Repository
 
