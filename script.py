@@ -58,7 +58,7 @@ def update_display():
 def open_chart_window():
     chart_window = tk.Toplevel(root)
     chart_window.title("Pie Chart")
-    chart_window.geometry("400x300")
+    chart_window.geometry("500x500")
     canvas = tk.Canvas(chart_window, width=400, height=300)
     canvas.pack(pady=30)
     income = get_total("Income")
@@ -82,8 +82,8 @@ def open_chart_window():
     start_angle = 0.0
     col = 0  # changes colors
 
-    cx, cy = 150, 150
-    r = 110
+    cx, cy = 250, 250
+    r = 180
 
     # BALANCE SLICE
     balance_extent = balance * 360 / income
